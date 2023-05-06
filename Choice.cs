@@ -8,17 +8,16 @@ namespace SnakeAndLadder
     public class Choice
     {
         public void Decide(int outcome){
-            Program obj=new Program();
             if(outcome==0)
                 Console.WriteLine("Choice-No Plays!");
             else if(outcome==1){
                 Console.WriteLine("Choice-Ladder!");
-                obj.player+=outcome;
+                Program.player+=outcome;
             }else{
                 Console.WriteLine("Choice-Snake");
-                obj.player-=outcome;
+                Program.player=Math.Max(Program.player-outcome,0);
             }
-            Console.WriteLine("Player Position: " + obj.player);
+            Console.WriteLine("Player Position: " + Program.player+"\n-------------------------");
         }
 
     }
