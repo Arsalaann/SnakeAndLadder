@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome to snake and ladder game!");
+﻿namespace SnakeAndLadder{
+    class Program{
+        public static void Main(string[] args){
+            Rolling roll=new Rolling();
+            int outcome=roll.Roll();
+        }
+    }
+}
