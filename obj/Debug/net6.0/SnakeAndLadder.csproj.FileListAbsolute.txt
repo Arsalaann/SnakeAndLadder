@@ -1,0 +1,15 @@
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/SnakeAndLadder
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/SnakeAndLadder.deps.json
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/SnakeAndLadder.runtimeconfig.json
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/SnakeAndLadder.dll
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/ref/SnakeAndLadder.dll
+/home/luser/pgming/SnakeAndLadder/bin/Debug/net6.0/SnakeAndLadder.pdb
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.csproj.AssemblyReference.cache
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.AssemblyInfoInputs.cache
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.AssemblyInfo.cs
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.csproj.CoreCompileInputs.cache
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.dll
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/ref/SnakeAndLadder.dll
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.pdb
+/home/luser/pgming/SnakeAndLadder/obj/Debug/net6.0/SnakeAndLadder.genruntimeconfig.cache

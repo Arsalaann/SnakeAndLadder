@@ -10,6 +10,7 @@ namespace SnakeAndLadder
         public int Roll(){
             Random rnd=new Random();
             int outcome=rnd.Next(1,7);
+            Console.WriteLine("Dice rolls: " + outcome);
             return outcome;
         }
     }
