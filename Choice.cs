@@ -12,7 +12,8 @@ namespace SnakeAndLadder
                 Console.WriteLine("Choice-No Plays!");
             else if(outcome==1){
                 Console.WriteLine("Choice-Ladder!");
-                Program.player+=outcome;
+                if(Program.player+outcome<=100)
+                    Program.player+=outcome;
             }else{
                 Console.WriteLine("Choice-Snake");
                 Program.player=Math.Max(Program.player-outcome,0);
